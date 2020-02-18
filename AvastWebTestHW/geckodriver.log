@@ -1,0 +1,754 @@
+1582038716274	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofilec2Go0R"
+1582038716697	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582038717063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582038717063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582038717063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582038717063	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582038718942	Marionette	INFO	Listening on port 59912
+1582038719023	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1582038741922	Marionette	INFO	Stopped listening on port 59912
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582038780005	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofilekm8zH6"
+1582038780425	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582038780753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582038780753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582038780753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582038780753	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582038782530	Marionette	INFO	Listening on port 60130
+1582038782713	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://s.go-mpulse.net/boomerang/9K3EU-JY7U6-TD3RC-2KCEC-AH4A8, line 11: SecurityError: Permission denied to access property "chrome" on cross-origin object
+1582038835242	Marionette	INFO	Stopped listening on port 60130
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582039393317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofile9ZFbd9"
+1582039393723	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582039394043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582039394043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582039394043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582039394044	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582039395889	Marionette	INFO	Listening on port 60560
+1582039396006	Marionette	WARN	TLS certificate errors will be ignored for this session
+1582039413073	Marionette	INFO	Stopped listening on port 60560
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582039736317	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofileLByyO8"
+1582039736762	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582039737116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582039737116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582039737116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582039737116	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582039739025	Marionette	INFO	Listening on port 61052
+1582039739522	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1582039777097	Marionette	INFO	Stopped listening on port 61052
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582040667086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofileJcBs18"
+1582040667485	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582040667799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582040667799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582040667799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582040667799	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582040669539	Marionette	INFO	Listening on port 61499
+1582040669792	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+JavaScript error: https://s.go-mpulse.net/boomerang/9K3EU-JY7U6-TD3RC-2KCEC-AH4A8, line 11: SecurityError: Permission denied to access property "chrome" on cross-origin object
+1582040700379	Marionette	INFO	Stopped listening on port 61499
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582040855344	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofileN7qdkx"
+1582040855743	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582040856066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582040856066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582040856066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582040856067	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582040857769	Marionette	INFO	Listening on port 61864
+1582040858034	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+JavaScript error: https://s.go-mpulse.net/boomerang/9K3EU-JY7U6-TD3RC-2KCEC-AH4A8, line 11: SecurityError: Permission denied to access property "requestIdleCallback" on cross-origin object
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1582040885362	Marionette	INFO	Stopped listening on port 61864
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582041129099	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofileieClwy"
+1582041129499	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582041129820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582041129820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582041129820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582041129820	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582041131606	Marionette	INFO	Listening on port 62226
+1582041131804	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[Child 3452, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581105380/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582041147261	Marionette	INFO	Stopped listening on port 62226
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582041359073	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofiley48Eos"
+1582041359470	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582041359785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582041359785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582041359785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582041359785	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582041361537	Marionette	INFO	Listening on port 62458
+1582041361770	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1582041388224	Marionette	INFO	Stopped listening on port 62458
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582041411453	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofilegiMaRc"
+1582041411845	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582041412160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582041412160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582041412160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582041412160	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582041413961	Marionette	INFO	Listening on port 62701
+1582041414112	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+JavaScript error: https://s.go-mpulse.net/boomerang/9K3EU-JY7U6-TD3RC-2KCEC-AH4A8, line 11: SecurityError: Permission denied to access property "chrome" on cross-origin object
+1582041546043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofile40WkwE"
+1582041546444	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582041546767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582041546767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582041546767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582041546767	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582041548485	Marionette	INFO	Listening on port 63009
+1582041548731	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+1582041582249	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofileFjzVGl"
+1582041582642	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582041582961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582041582961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582041582961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582041582961	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582041584670	Marionette	INFO	Listening on port 63240
+1582041584938	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582041600271	Marionette	INFO	Stopped listening on port 63240
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582041615521	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofileyKJzkX"
+1582041615914	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582041616228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582041616228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582041616228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582041616228	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582041618023	Marionette	INFO	Listening on port 63272
+1582041618210	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x680029,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+1582041633364	Marionette	INFO	Stopped listening on port 63272
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582041655706	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofile8rvqRC"
+1582041656095	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582041656410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582041656410	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582041656411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582041656411	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582041658188	Marionette	INFO	Listening on port 63392
+1582041658413	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+1582041768844	Marionette	INFO	Stopped listening on port 63392
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582043198978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofileAFG136"
+1582043199374	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582043199691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582043199691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582043199691	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582043199692	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582043201290	Marionette	INFO	Listening on port 64094
+1582043201674	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[Child 9412, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581105380/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1582043222470	Marionette	INFO	Stopped listening on port 64094
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582043637326	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofileKYlcoH"
+1582043637739	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582043638066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582043638066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582043638066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582043638066	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582043639737	Marionette	INFO	Listening on port 64402
+1582043640031	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[Parent 3300, Gecko_IOThread] WARNIN[GChild 1669:2 , Chrome_ChildpThriepaed ]e rWrAoRrN:I N9G9:5 :p ipe error: 232: file z:/task_1581105380/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507f
+ile z:/task_[1581C105380/build/src/ipc/chromhiiuld 16692, mC/hrome_ChildsTrhcr/ecahdr]o me/common/iWpAcRNING_: pipe error: 232: file z:/task_1581105380/build/src/ipc/chrcohmaium/src/chrome/common/ipcn_channel_win.cnce,l _lwiinne. c5c0,7 line 461
+
+[Child 16692, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581105380/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Child 16692, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581105380/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1582043681604	Marionette	INFO	Stopped listening on port 64402
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582043704978	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofilesU6HZL"
+1582043705379	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582043705702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582043705702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582043705702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582043705702	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582043707339	Marionette	INFO	Listening on port 64696
+1582043707637	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582043708173	Marionette	INFO	Stopped listening on port 64696
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582043715595	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofiledOC417"
+1582043715995	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582043716316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582043716316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582043716316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582043716316	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582043717934	Marionette	INFO	Listening on port 64716
+1582043718284	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582043719268	Marionette	INFO	Stopped listening on port 64716
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582043729217	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofileRfGoCe"
+1582043729685	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582043730040	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582043730041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582043730041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582043730041	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582043731692	Marionette	INFO	Listening on port 64736
+1582043731892	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582043745372	Marionette	INFO	Stopped listening on port 64736
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582044031090	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofileReMzYs"
+1582044031486	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582044031805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582044031805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582044031805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582044031805	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582044033455	Marionette	INFO	Listening on port 64841
+1582044033780	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582044047861	Marionette	INFO	Stopped listening on port 64841
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582044073677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofiledJsaqB"
+1582044074071	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582044074391	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582044074392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582044074392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582044074392	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582044075993	Marionette	INFO	Listening on port 64863
+1582044076351	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+JavaScript error: https://s.go-mpulse.net/boomerang/9K3EU-JY7U6-TD3RC-2KCEC-AH4A8, line 11: SecurityError: The operation is insecure.
+JavaScript error: https://s.go-mpulse.net/boomerang/9K3EU-JY7U6-TD3RC-2KCEC-AH4A8, line 11: SecurityError: The operation is insecure.
+[Child 17708, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581105380/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Child 17708, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581105380/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Child 17708, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581105380/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Child 17708, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581105380/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+[Child 17708, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581105380/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+1582044120254	Marionette	INFO	Stopped listening on port 64863
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582044132055	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofile61oWAz"
+1582044132450	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582044132772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582044132772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582044132772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582044132772	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582044134386	Marionette	INFO	Listening on port 65066
+1582044134729	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+JavaScript error: https://static3.avast.com/10001291/web/j/jquery.js, line 2: NS_ERROR_NOT_INITIALIZED: 
+[Child 18252, Chrome_ChildThread] WARNING: pipe error: 232: file z:/task_1581105380/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+
+###!!! [Child][RunMessage] Error: Channel error: cannot send/recv
+
+1582044169328	Marionette	INFO	Stopped listening on port 65066
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582044315523	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofileImXhIq"
+1582044315924	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582044316241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582044316241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582044316241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582044316241	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582044317830	Marionette	INFO	Listening on port 65330
+1582044318198	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+1582044333074	Marionette	INFO	Stopped listening on port 65330
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582044562798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofileJ5iLnp"
+1582044563195	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582044563511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582044563511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582044563511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582044563511	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582044565130	Marionette	INFO	Listening on port 49171
+1582044565473	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///modules/FaviconLoader.jsm, line 581: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+1582044575551	Marionette	INFO	Stopped listening on port 49171
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1582044707210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofileTJZAb0"
+1582044707615	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582044707938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582044707938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582044707938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582044707938	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582044709607	Marionette	INFO	Listening on port 49351
+1582044709901	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+1582044752472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofilevCYwia"
+1582044752867	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582044753189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582044753189	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582044753190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582044753190	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582044754838	Marionette	INFO	Listening on port 49593
+1582044755164	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+4052
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+, Chrome_ChildTh
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+read] WARNING: pipe error: 232: file z:/task_1581105380/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 507
+1582044775098	Marionette	INFO	Stopped listening on port 49593
+1582044833880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofilewRZj7A"
+1582044834284	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582044834604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582044834604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582044834604	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582044834605	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582044836242	Marionette	INFO	Listening on port 49786
+1582044836572	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+1582044867695	Marionette	INFO	Stopped listening on port 49786
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1582044924655	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\RICHAR~1\\AppData\\Local\\Temp\\rust_mozprofileWO464d"
+1582044925052	addons.webextension.doh-rollout@mozilla.org	WARN	Loading extension 'doh-rollout@mozilla.org': Reading manifest: Invalid extension permission: networkStatus
+1582044925402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1582044925402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: telemetry
+1582044925402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1582044925402	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1582044927138	Marionette	INFO	Listening on port 50007
+1582044927296	Marionette	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+JavaScript error: https://s.go-mpulse.net/boomerang/9K3EU-JY7U6-TD3RC-2KCEC-AH4A8, line 11: SecurityError: Permission denied to access property "chrome" on cross-origin object
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+[GFX1-]: Failed to create DrawTarget, Type: 5 Size: Size(17614,139)
+JavaScript error: resource:///actors/ContentMetaChild.jsm, line 167: InvalidStateError: An attempt was made to use an object that is not, or is no longer, usable
+1582044942325	Marionette	INFO	Stopped listening on port 50007
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
